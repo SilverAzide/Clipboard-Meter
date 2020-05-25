@@ -15,7 +15,7 @@ The Clipboard Meter Gadget is a collaboration between [Eclectic-Tech](https://ec
 * Scales to any desired size.
 
 **NOTE:**<br>
-The installer is in the form of a patch, which will patch your existing [Gadgets](https://github.com/SilverAzide/Gadgets) installation without affecting your existing configuration or layouts. If you don't have the Gadgets suite installed, these will install as standalone skins.
+The installer is in the form of a patch, which will patch your existing [Gadgets](https://github.com/SilverAzide/Gadgets) installation without affecting your existing configuration or layouts. If you don't have the Gadgets suite installed, this will install as a standalone skin.
 
 ## Requirements
 Rainmeter 4.3.1 or later: <https://www.rainmeter.net>.<br>
