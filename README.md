@@ -4,6 +4,9 @@
 
 The Clipboard Meter Gadget is a collaboration between [Eclectic-Tech](https://eclectic-tech.deviantart.com) and myself, based on his [Illustro Clipboard+](http://fav.me/daoug6l) skin with styling to match the [Gadgets](https://github.com/SilverAzide/Gadgets) suite.
 
+**NOTE:**<br>
+The installer is in the form of a patch, which will patch your existing [Gadgets](https://github.com/SilverAzide/Gadgets) installation without affecting your existing configuration or layouts. If you don't have the Gadgets suite installed, these will install as standalone skins.
+
 ## Features
 * Manages up to 10 items copied to your clipboard.
 * Supports text, images, files, and data.
@@ -13,9 +16,6 @@ The Clipboard Meter Gadget is a collaboration between [Eclectic-Tech](https://ec
 * Allows setting to topmost window position.
 * Configurable tooltips show the text of multi-line clips.
 * Scales to any desired size.
-
-**NOTE:**<br>
-The installer is in the form of a patch, which will patch your existing [Gadgets](https://github.com/SilverAzide/Gadgets) installation without affecting your existing configuration or layouts. If you don't have the Gadgets suite installed, these will install as standalone skins.
 
 ## Requirements
 Rainmeter 4.4.0 or later: <https://www.rainmeter.net>.<br>
