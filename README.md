@@ -4,6 +4,8 @@
 
 The Clipboard Meter Gadget is a collaboration between [Eclectic-Tech](https://eclectic-tech.deviantart.com) and myself, based on his [Illustro Clipboard+](http://fav.me/daoug6l) skin with styling to match the [Gadgets](https://github.com/SilverAzide/Gadgets) suite.
 
+**[Download the latest version here (4.0.1)](https://github.com/SilverAzide/Clipboard-Meter/releases/download/v4.0.1/Clipboard.Meter.-.Gadgets.Patch_4.0.1.rmskin)**
+
 **NOTE:**<br>
 The installer is in the form of a patch, which will patch your existing [Gadgets](https://github.com/SilverAzide/Gadgets) installation without affecting your existing configuration or layouts. If you don't have the Gadgets suite installed, this will install as a standalone skin.
 
