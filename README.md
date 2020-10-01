@@ -2,7 +2,7 @@
 # Clipboard Meter
 **Clipboard Meter Gadget inspired by the well-known AddGadgets.com Windows Sidebar gadgets.**
 
-The Clipboard Meter Gadget is a collaboration between [Eclectic-Tech](https://eclectic-tech.deviantart.com) and myself, based on his [Illustro Clipboard+](http://fav.me/daoug6l) skin with styling to match the [Gadgets](https://github.com/SilverAzide/Gadgets) suite.
+The Clipboard Meter Gadget is a collaboration between [Eclectic-Tech](https://eclectic-tech.deviantart.com) and myself, based on his [Illustro Clipboard+](http://fav.me/daoug6l) skin with styling to match the [Gadgets](https://github.com/SilverAzide/Gadgets) suite. For help and more, visit the Clipboard Meter on the [Rainmeter Forums](https://forum.rainmeter.net/viewtopic.php?f=27&t=26876).
 
 **[Download the latest version here (4.0.1)](https://github.com/SilverAzide/Clipboard-Meter/releases/download/v4.0.1/Clipboard.Meter.-.Gadgets.Patch_4.0.1.rmskin)**
 
