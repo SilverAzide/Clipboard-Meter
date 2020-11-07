@@ -20,7 +20,7 @@ The installer is in the form of a patch, which will patch your existing [Gadgets
 * Scales to any desired size.
 
 ## Requirements
-Rainmeter 4.4.0 or later: <https://www.rainmeter.net>.<br>
+Rainmeter 4.3.1 or later: <https://www.rainmeter.net>.<br>
 
 ## Attribution
 * [ClipboardPlugin](https://forum.rainmeter.net/viewtopic.php?p=112095#p112095) by [Evgenii Vilkov](https://zzeneg.deviantart.com).
