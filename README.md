@@ -28,6 +28,7 @@ Rainmeter 4.4.0 or later: <https://www.rainmeter.net>.<br>
 * [ClipboardPlugin](https://forum.rainmeter.net/viewtopic.php?p=112095#p112095) by [Evgenii Vilkov](https://www.deviantart.com/zzeneg).
 * [Illustro Clipboard+](http://fav.me/daoug6l) by [Eclectic-Tech](https://www.deviantart.com/eclectic-tech).
 * [Gadgets](https://github.com/SilverAzide/Gadgets) by [SilverAzide](https://github.com/SilverAzide).
+* Clipboard Meter includes [ColorPickerPlus](https://github.com/raiguard/ColorPickerPlus) by raiguard, with mods by me.
 
 ## License
 Creative Commons Attribution-Noncommercial-Share Alike 3.0 License
