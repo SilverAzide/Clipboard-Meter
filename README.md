@@ -31,7 +31,7 @@ Rainmeter 4.4.0 or later: <https://www.rainmeter.net>.<br>
 * Clipboard Meter includes [ColorPickerPlus](https://github.com/raiguard/ColorPickerPlus) by raiguard, with mods by me.
 
 ## License
-Creative Commons Attribution-Noncommercial-Share Alike 3.0 License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
 ---
 [![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Clipboard-Meter/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Clipboard-Meter/releases)
