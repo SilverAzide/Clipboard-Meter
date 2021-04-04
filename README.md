@@ -23,7 +23,7 @@ The installer is in the form of a patch, which will patch your existing [Gadgets
 * Scales to any desired size.
 
 ## Requirements
-[Rainmeter 4.4.0 or later](https://www.rainmeter.net).
+[Rainmeter 4.4.0.3438 or later](https://www.rainmeter.net).
 
 ## Attribution
 * [ClipboardPlugin](https://forum.rainmeter.net/viewtopic.php?p=112095#p112095) by [Evgenii Vilkov](https://www.deviantart.com/zzeneg).
@@ -32,7 +32,7 @@ The installer is in the form of a patch, which will patch your existing [Gadgets
 * Clipboard Meter includes [ColorPickerPlus](https://github.com/raiguard/ColorPickerPlus/#readme) by raiguard, with mods by me.
 
 ## License
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
 ---
 [![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Clipboard-Meter/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Clipboard-Meter/releases)
